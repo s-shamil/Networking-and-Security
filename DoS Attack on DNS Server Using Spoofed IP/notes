@@ -1,0 +1,25 @@
+4500 0039 / 0001 0000 / 4011 a98b c0a8 0070
+0808 0808 
+
+0035 0035 0025 0000 
+
+
+0064 0100
+0001 0000 0000 0000 
+
+
+0765 7861 6d70 6c65
+0363 6f6d 0000 0100 01
+
+
+
+DNS Server - Windows Machine - 192.168.0.105
+Attacker - Ubuntu Desktop - 192.168.0.112
+Legitimate User - SeedUbuntu on VM - 192.168.0.104
+
+
+The options to protect against IP spoofing include monitoring networks for atypical activity, deploying packet filtering to detect inconsistencies (like outgoing packets with source IP addresses that don't match those on the organization's network), using robust verification methods (even among networked computers), authenticating all IP addresses, and using a network attack blocker. Placing at least a portion of computing resources behind a firewall is also a good idea.
+
+Web designers are encouraged to migrate sites to IPv6, the newest Internet Protocol. It makes IP spoofing harder by including encryption and authentication steps. Most of the world's internet traffic still uses the previous protocol, IPv4. The Seattle Internet Exchange (one of two in the world showing IPv6 traffic statistics) indicates that only about 11 percent of traffic has migrated to the newer, more secure protocol as of mid-November 2017.
+
+For end users, detecting IP spoofing is virtually impossible. They can minimize the risk of other types of spoofing, however, by using secure encryption protocols like HTTPS — and only surfing sites that also use them.

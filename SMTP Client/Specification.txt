@@ -1,0 +1,7 @@
+n this problem, you will be designing an SMTP client for a standard mail server
+using Socket
+Programming
+. Your task is to develop a simple mail client that sends email to any recipient.
+Your client will need to co
+nnect to a mail server, dialogue with the mail server using the SMTP
+protocol, and send an email message to the mail server.
